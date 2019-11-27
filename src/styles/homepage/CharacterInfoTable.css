@@ -1,0 +1,9 @@
+.character-info-table {
+  width:95%;
+  margin: 10px auto auto auto;
+}
+.ant-table.ant-table-bordered .ant-table-title {
+  padding-right: 16px !important;
+  padding-left: 0 !important;
+  border: 0px !important;
+}

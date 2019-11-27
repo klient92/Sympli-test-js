@@ -1,0 +1,28 @@
+.homepage-character-detail {
+  width: 95%;
+  margin: 20px auto 20px auto !important;
+  padding-bottom: 20px;
+}
+
+.homepage-character-detail p {
+  margin: 0 auto 0 auto;
+}
+
+.homepage-character-detail span {
+  display: block;
+  margin-top: 10px;
+}
+
+.detail-content-loading {
+  text-align: center
+}
+
+/* Animation */
+.example-appear {
+  opacity: 0.01;
+}
+
+.example-appear.example-appear-active {
+  opacity: 1;
+  transition: opacity .5s ease-in;
+}
